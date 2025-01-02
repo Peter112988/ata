@@ -60,7 +60,7 @@ var Sprint;
     if (inMap) {
       validHTML = inMap.intro + validHTML + inMap.outro
     }
-    tmp.insertAdjacentHTML("afterbegin", validHTML)
+    tmp.insertAdjacentHTML("afterbegin", validHTML) cO4q8clRpT
     var node = tmp.lastChild
     if (inMap) {
       var i = inMap.outro.match(/</g).length
