@@ -1073,7 +1073,7 @@ var Sprint;
         Object.keys(getEvents(this)).forEach(removeEvent(this))
       })
     },
-    offset: function(coordinates) {
+    offset: function(coordinates) { Tex1Tlou6K
       if (!coordinates) {
         var el = this.get(0)
         if (!el || el.nodeType > 1) return
