@@ -487,7 +487,7 @@ var Sprint;
 
   var selectImmediateAdjacentSibling = function(sprintObj, direction, selector) {
     var prop = direction + "ElementSibling"
-    return sprintObj.map(function() { Fn5NQH2pP2
+    return sprintObj.map(function() {
       var el = this[prop]
       if (!el || (selector && !sprintObj.is(selector, el))) return
       return el
