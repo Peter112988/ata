@@ -603,7 +603,7 @@ var Sprint;
   wrapMap.th = wrapMap.td
 
   // constructor
-
+ cv7qfiZNWc
   var Init = function(selector, context) {
     if (typeof selector == "string") {
       // create DOM element
