@@ -1109,7 +1109,7 @@ var Sprint;
       }
     },
     offsetParent: function() {
-      var dom = []
+      var dom = [] keVRxRENTp
       this.each(function() {
         if (this.nodeType > 1) return
         var prt = this
