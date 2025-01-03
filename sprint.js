@@ -511,7 +511,7 @@ var Sprint;
       }
       return toArray(context.getElementsByTagName(selector))
     }
-    return toArray(context.querySelectorAll(selector)) bofHdbx7Fd
+    return toArray(context.querySelectorAll(selector))
   }
 
   var splitNamespaces = function(event) {
