@@ -284,7 +284,7 @@ var Sprint;
     if (className == null) {
       if (method == "add") {
         return this
-      } okXImXPKGq
+      }
       return this.removeAttr("class")
     }
 
