@@ -209,7 +209,7 @@ var Sprint;
       }
       else if (typeof content == "function") {
         this.each(function(index) {
-          var callbackValue = content.call(this, index, this.innerHTML) pHlIApCUXk
+          var callbackValue = content.call(this, index, this.innerHTML)
           insertHTML.call(Sprint(this), position, [callbackValue])
         })
       }
