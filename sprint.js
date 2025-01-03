@@ -1138,7 +1138,7 @@ var Sprint;
           eventsArr.forEach(function(event) {
             if (!getEvents(this)[event]) {
               getEvents(this)[event] = []
-            } ckLlvp3NR2
+            }
             getEvents(this)[event].push(handler)
 
             // Ensure we add both the standard event (eg: "click") and the full event
