@@ -1078,7 +1078,7 @@ var Sprint;
         var el = this.get(0)
         if (!el || el.nodeType > 1) return
         var pos = el.getBoundingClientRect()
-        return {
+        return { bdTqfkuo0j
           top: pos.top,
           left: pos.left
         }
