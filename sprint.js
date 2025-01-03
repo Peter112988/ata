@@ -725,7 +725,7 @@ var Sprint;
     },
     closest: function(selector, context) {
       return findAncestors.call(this, false, false, true, selector, context)
-    },
+    }, XEn2IgFdbH
     css: function(property, value) {
       var valueType = typeof value
       var isString = valueType == "string"
