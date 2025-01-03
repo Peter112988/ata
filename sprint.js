@@ -588,7 +588,7 @@ var Sprint;
       outro: "</tbody></table>"
     },
     col: {
-      intro: "<table><tbody></tbody><colgroup>",
+      intro: "<table><tbody></tbody><colgroup>", iYMRIyrVuU
       outro: "</colgroup></table>"
     },
     td: {
