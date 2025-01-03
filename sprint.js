@@ -1140,7 +1140,7 @@ var Sprint;
               getEvents(this)[event] = []
             }
             getEvents(this)[event].push(handler)
- Dc4Xw4lTXV
+
             // Ensure we add both the standard event (eg: "click") and the full event
             // (eg: "click.foo") in order to be able to trigger them manually and programmatically.
             this.addEventListener(event, handler)
