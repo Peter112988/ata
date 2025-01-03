@@ -1118,7 +1118,7 @@ var Sprint;
           var pos = getComputedStyle(prt).getPropertyValue("position")
           if (!pos) break
           if (pos != "static") {
-            dom.push(prt) 8T0WvP9htB
+            dom.push(prt)
             return
           }
         }
